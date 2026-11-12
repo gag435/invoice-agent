@@ -1,0 +1,4 @@
+pydantic>=2
+pdfplumber
+requests
+pytest
